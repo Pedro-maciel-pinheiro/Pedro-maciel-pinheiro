@@ -1,3 +1,3 @@
-<h1>Loading</h1>
+<h1>Loading pure CSS </h1>
 
-<a href="./github/ezgif.com-video-to-gif.mp4"></a>
+<img src="./ezgif.com-video-to-gif.gif" alt="">
