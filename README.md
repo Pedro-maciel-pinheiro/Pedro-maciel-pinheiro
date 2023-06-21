@@ -17,3 +17,9 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
   
+
+
+
+
+## Snake gif
+![snake gif](https://github.com/Pedro-maciel-pinheiro/Pedro-maciel-pinheiro/blob/output/github-contribution-grid-snake.gif)
