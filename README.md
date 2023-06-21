@@ -5,8 +5,8 @@
 
 
 <a href="https://github.com/Pedro-maciel-pinheiro"></a>
-<img width="43%"  src="https://github-readme-stats.vercel.app/api?username=Pedro-maciel-pinheiro&show_icons=true&theme=midnight-purple" alt="">
-<img width="39%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-maciel-pinheiro&layout=compact&theme=midnight-purple" alt="">
+<img width="43%"  src="https://github-readme-stats.vercel.app/api?username=Pedro-maciel-pinheiro&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="">
+<img width="39%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-maciel-pinheiro&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="">
 
 --------------------
 
