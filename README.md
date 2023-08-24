@@ -34,6 +34,3 @@
 
 --------------------
 
-
-### Snake gif
-![snake gif](https://github.com/Pedro-maciel-pinheiro/Pedro-maciel-pinheiro/blob/output/github-contribution-grid-snake.gif)
