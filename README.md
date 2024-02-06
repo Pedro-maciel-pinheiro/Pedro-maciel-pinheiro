@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is Pedro I am a front-end Developer
 
 --------------------
 
@@ -15,9 +15,9 @@
 
 
 <div style="display: inline_block"><br>
-   <p align="center">
+   <p align="start">
   <a href="https://skillicons.dev">
-    <img align="center" src="https://skillicons.dev/icons?i=git,github,javascript,typescript,react,nextjs,html,css,tailwind" />
+    <img  src="https://skillicons.dev/icons?i=git,github,javascript,typescript,react,nextjs,html,css,tailwind" />
   </a>
 </p>
   
