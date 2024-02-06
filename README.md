@@ -11,12 +11,12 @@
 --------------------
 
 
- <p align="center" font-weight:bold; font-size:2rem;> ### ⇩  Tools I use   ⇩ </p>
+ ### ⇩  Tools I use   ⇩ </p>
 
 
 <div style="display: inline_block"><br>
 
-   <p align="center">
+   <p align="end">
   <a href="https://skillicons.dev">
     <img  src="https://skillicons.dev/icons?i=git,github,javascript,typescript,react,nextjs,html,css,tailwind" />
   </a>
