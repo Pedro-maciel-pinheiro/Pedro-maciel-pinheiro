@@ -11,11 +11,12 @@
 --------------------
 
 
- ### ⇩  Tools I use   ⇩ 
+ 
 
 
 <div style="display: inline_block"><br>
-   <p align="start">
+ ### ⇩  Tools I use   ⇩ 
+   <p align="center">
   <a href="https://skillicons.dev">
     <img  src="https://skillicons.dev/icons?i=git,github,javascript,typescript,react,nextjs,html,css,tailwind" />
   </a>
