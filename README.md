@@ -11,7 +11,7 @@
 --------------------
 
 
- <p align="center" fonty:bold> ### ⇩  Tools I use   ⇩ </p>
+ <p align="center" fonty-size:2rem> ### ⇩  Tools I use   ⇩ </p>
 
 
 <div style="display: inline_block"><br>
