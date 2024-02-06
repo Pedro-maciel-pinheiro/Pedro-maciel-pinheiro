@@ -20,6 +20,9 @@
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="CSS" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonduck.com%2Ficons%2F94662%2Fnextjs&psig=AOvVaw1jmGsrMc4NDMzl6O1sjoSz&ust=1707265880330000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOifopO7lYQDFQAAAAAdAAAAABAE
+">
 </div>
 
 --------------------
